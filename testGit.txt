@@ -1,1 +1,2 @@
 Testing Git with this text file.
+CHANGED FILE
